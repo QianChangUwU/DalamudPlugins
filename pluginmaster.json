@@ -1,0 +1,19 @@
+[
+    {
+        "Author":  "",
+        "Name":  "",
+        "InternalName":  "",
+        "AssemblyVersion":  "1.0.0.0",
+        "Description":  "",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "",
+        "Tags":  [],
+        "DalamudApiLevel":  11,
+        "LoadPriority":  0,
+        "IconUrl":  "",
+        "Punchline":  "",
+        "AcceptsFeedback":  true,
+        "DownloadLinkInstall":  "",
+        "DownloadLinkUpdate":  ""
+    }
+]
