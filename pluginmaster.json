@@ -4,12 +4,13 @@
         "Name": "Questionable",
         "InternalName": "Questionable",
         "AssemblyVersion": "15.298.0.101",
-        "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible.",
+        "Description": "一个自动任务插件，能在可能的情况下自动为你完成任务.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/QianChangUwU/Questionable",
         "Tags": [
             "quests",
-            "msq"
+            "msq",
+            "qst"
         ],
         "DalamudApiLevel": 15,
         "LoadPriority": 0,
