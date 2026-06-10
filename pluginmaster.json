@@ -3,25 +3,24 @@
         "Author": "liza, qstxiv, & various contributors",
         "Name": "Questionable",
         "InternalName": "Questionable",
-        "AssemblyVersion": "15.298.0.101",
-        "Description": "一个自动任务插件，能在可能的情况下自动为你完成任务.",
+        "AssemblyVersion": "15.298.0.102",
+        "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/QianChangUwU/Questionable",
         "Tags": [
             "quests",
-            "msq",
-            "qst"
+            "msq"
         ],
         "DalamudApiLevel": 15,
         "LoadPriority": 0,
-        "IconUrl": "https://github.com/QianChangUwU/Questionable/releases/download/v15.298.0.101/latest.zip",
+        "IconUrl": "https://github.com/QianChangUwU/Questionable/releases/download/v15.298.0.102/latest.zip",
         "Punchline": "A tiny quest helper plugin.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/QianChangUwU/Questionable/releases/download/v15.298.0.101/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/QianChangUwU/Questionable/releases/download/v15.298.0.101/latest.zip",
-        "TestingAssemblyVersion": "15.298.0.101",
+        "DownloadLinkInstall": "https://github.com/QianChangUwU/Questionable/releases/download/v15.298.0.102/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/QianChangUwU/Questionable/releases/download/v15.298.0.102/latest.zip",
+        "TestingAssemblyVersion": "15.298.0.102",
         "TestingDalamudApiLevel": 15,
-        "DownloadLinkTesting": "https://github.com/QianChangUwU/Questionable/releases/download/v15.298.0.101/latest.zip",
-        "LastUpdate": 1781094009
+        "DownloadLinkTesting": "https://github.com/QianChangUwU/Questionable/releases/download/v15.298.0.102/latest.zip",
+        "LastUpdate": 1781097351
     }
 ]
