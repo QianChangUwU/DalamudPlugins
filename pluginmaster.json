@@ -41,7 +41,7 @@
         ],
         "DalamudApiLevel": 15,
         "LoadPriority": 0,
-        "IconUrl": "",
+        "IconUrl": "https://raw.githubusercontent.com/QianChangUwU/DalamudPlugins/main/icons/SubKing.png",
         "Punchline": "艇王 - 潜水艇收益分析 & 配件模拟器",
         "AcceptsFeedback": true,
         "DownloadLinkInstall": "https://github.com/QianChangUwU/SubKing/releases/download/v1.0.0.1/latest.zip",
