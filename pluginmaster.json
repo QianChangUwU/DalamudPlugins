@@ -22,33 +22,5 @@
         "TestingDalamudApiLevel": 15,
         "DownloadLinkTesting": "https://github.com/QianChangUwU/Questionable/releases/download/v15.300.0.302/latest.zip",
         "LastUpdate": 1781322724
-    },
-    {
-        "Name": "SubKing",
-        "Author": "QianChangUwU",
-        "Punchline": "艇王 - 潜水艇收益分析 & 配件模拟器",
-        "Description": "实时追踪潜艇状态、模拟配件属性、预测航线收益、统计历史收入。包含全海域阈值数据和最优航线推荐。",
-        "InternalName": "SubKing",
-        "AssemblyVersion": "1.0.0.5",
-        "TestingAssemblyVersion": "1.0.0.5",
-        "DalamudApiLevel": 15,
-        "TestingDalamudApiLevel": 15,
-        "DownloadLinkInstall": "https://github.com/QianChangUwU/SubKing/releases/download/v1.0.0.5/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/QianChangUwU/SubKing/releases/download/v1.0.0.5/latest.zip",
-        "DownloadLinkTesting": "https://github.com/QianChangUwU/SubKing/releases/download/v1.0.0.5/latest.zip",
-        "RepoUrl": "https://github.com/QianChangUwU/SubKing",
-        "IconUrl": "https://raw.githubusercontent.com/QianChangUwU/DalamudPlugins/main/icons/SubKing.png",
-        "Tags": [
-            "subking",
-            "sub",
-            "sk",
-            "潜水艇",
-            "收益",
-            "艇王"
-        ],
-        "ApplicableVersion": "any",
-        "LoadPriority": 0,
-        "AcceptsFeedback": true,
-        "LastUpdate": 1781322908
     }
 ]
