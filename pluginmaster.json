@@ -3,7 +3,7 @@
         "Author": "liza, qstxiv, & various contributors",
         "Name": "Questionable",
         "InternalName": "Questionable",
-        "AssemblyVersion": "15.301.0.2212",
+        "AssemblyVersion": "15.301.0.2213",
         "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/QianChangUwU/Questionable",
@@ -13,14 +13,14 @@
         ],
         "DalamudApiLevel": 15,
         "LoadPriority": 0,
-        "IconUrl": "https://github.com/QianChangUwU/Questionable/releases/download/v15.301.0.2212/latest.zip",
+        "IconUrl": "https://github.com/QianChangUwU/Questionable/releases/download/v15.301.0.2213/latest.zip",
         "Punchline": "A tiny quest helper plugin.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/QianChangUwU/Questionable/releases/download/v15.301.0.2212/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/QianChangUwU/Questionable/releases/download/v15.301.0.2212/latest.zip",
-        "TestingAssemblyVersion": "15.301.0.2212",
+        "DownloadLinkInstall": "https://github.com/QianChangUwU/Questionable/releases/download/v15.301.0.2213/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/QianChangUwU/Questionable/releases/download/v15.301.0.2213/latest.zip",
+        "TestingAssemblyVersion": "15.301.0.2213",
         "TestingDalamudApiLevel": 15,
-        "DownloadLinkTesting": "https://github.com/QianChangUwU/Questionable/releases/download/v15.301.0.2212/latest.zip",
-        "LastUpdate": 1781854999
+        "DownloadLinkTesting": "https://github.com/QianChangUwU/Questionable/releases/download/v15.301.0.2213/latest.zip",
+        "LastUpdate": 1781855351
     }
 ]
