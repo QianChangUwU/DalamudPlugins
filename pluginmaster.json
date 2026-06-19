@@ -14,31 +14,38 @@
         "DownloadLinkTesting": "https://github.com/QianChangUwU/Questionable/releases/download/v15.301.0.2514/latest.zip",
         "RepoUrl": "https://github.com/QianChangUwU/Questionable",
         "IconUrl": "https://github.com/QianChangUwU/Questionable/releases/download/v15.301.0.2514/latest.zip",
-        "Tags": ["quests", "msq"],
+        "Tags": [
+            "quests",
+            "msq"
+        ],
         "ApplicableVersion": "any",
         "LoadPriority": 0,
         "AcceptsFeedback": true,
         "LastUpdate": 1781908545
     },
     {
-        "Author": "NightmareXIV, QianChangUwU",
         "Name": "JustBackup",
+        "Author": "NightmareXIV, QianChangUwU",
         "Punchline": "自动备份游戏和插件配置。",
         "Description": "在游戏/插件启动时自动备份你的游戏和插件配置，支持自动清理旧备份、7-zip压缩、角色配置识别等。",
         "InternalName": "JustBackup",
-        "AssemblyVersion": "1.1.1.501",
-        "TestingAssemblyVersion": "1.1.1.501",
+        "AssemblyVersion": "1.1.1.502",
+        "TestingAssemblyVersion": "1.1.1.502",
         "DalamudApiLevel": 15,
         "TestingDalamudApiLevel": 15,
-        "DownloadLinkInstall": "https://github.com/QianChangUwU/JustBackup/releases/download/v1.1.1.501/JustBackup.zip",
-        "DownloadLinkUpdate": "https://github.com/QianChangUwU/JustBackup/releases/download/v1.1.1.501/JustBackup.zip",
-        "DownloadLinkTesting": "https://github.com/QianChangUwU/JustBackup/releases/download/v1.1.1.501/JustBackup.zip",
+        "DownloadLinkInstall": "https://github.com/QianChangUwU/JustBackup/releases/download/v1.1.1.502/JustBackup.zip",
+        "DownloadLinkUpdate": "https://github.com/QianChangUwU/JustBackup/releases/download/v1.1.1.502/JustBackup.zip",
+        "DownloadLinkTesting": "https://github.com/QianChangUwU/JustBackup/releases/download/v1.1.1.502/JustBackup.zip",
         "RepoUrl": "https://github.com/QianChangUwU/JustBackup",
-        "IconUrl": "https://github.com/QianChangUwU/Questionable/releases/download/v15.301.0.2514/latest.zip",
-        "Tags": ["backup", "utility", "cn"],
+        "IconUrl": "https://github.com/QianChangUwU/JustBackup/releases/download/v1.1.1.502/JustBackup.zip",
+        "Tags": [
+            "backup",
+            "utility",
+            "cn"
+        ],
         "ApplicableVersion": "any",
         "LoadPriority": 0,
         "AcceptsFeedback": true,
-        "LastUpdate": 1781908545
+        "LastUpdate": 1781909107
     }
 ]
