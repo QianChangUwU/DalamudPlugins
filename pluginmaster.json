@@ -49,11 +49,11 @@
         "LastUpdate": 1781909107
     },
     {
-        "Name": "ExtraChat",
+        "Name": "ExtraChat-CN",
         "Author": "Anna, QianChangUwU",
         "Punchline": "跨数据中心、不限成员数量的加密聊天频道。",
         "Description": "ExtraChat 添加端到端加密、跨数据中心、不限成员数量的额外聊天频道到游戏中。",
-        "InternalName": "ExtraChat",
+        "InternalName": "ExtraChat-CN",
         "AssemblyVersion": "1.3.11.18",
         "TestingAssemblyVersion": "1.3.11.18",
         "DalamudApiLevel": 15,
