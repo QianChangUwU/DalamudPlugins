@@ -55,12 +55,12 @@
         "Description": "ExtraChat 添加端到端加密、跨数据中心、不限成员数量的额外聊天频道到游戏中。",
         "InternalName": "ExtraChat-CN",
         "AssemblyVersion": "1.3.11.26",
-        "TestingAssemblyVersion": "1.3.11.30",
+        "TestingAssemblyVersion": "1.3.11.31",
         "DalamudApiLevel": 15,
         "TestingDalamudApiLevel": 15,
         "DownloadLinkInstall": "https://github.com/QianChangUwU/ChatExtra/releases/download/v1.3.11.26/ExtraChat-CN.zip",
         "DownloadLinkUpdate": "https://github.com/QianChangUwU/ChatExtra/releases/download/v1.3.11.26/ExtraChat-CN.zip",
-        "DownloadLinkTesting": "https://github.com/QianChangUwU/ChatExtra/releases/download/v1.3.11.30-dev/ExtraChat-CN.zip",
+        "DownloadLinkTesting": "https://github.com/QianChangUwU/ChatExtra/releases/download/v1.3.11.31-dev/ExtraChat-CN.zip",
         "RepoUrl": "https://github.com/QianChangUwU/ChatExtra",
         "IconUrl": "https://github.com/QianChangUwU/ChatExtra/releases/download/v1.3.11.26/ExtraChat-CN.zip",
         "Tags": [
@@ -71,6 +71,6 @@
         "ApplicableVersion": "any",
         "LoadPriority": 0,
         "AcceptsFeedback": true,
-        "LastUpdate": 1782352827
+        "LastUpdate": 1782353562
     }
 ]
