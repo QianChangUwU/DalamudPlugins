@@ -79,13 +79,13 @@
         "Punchline": "在FFXIV中整理物品，轻松定位/显示物品的存放位置，规划你的制作，以及搜索怪物、任务、飞空艇和潜水艇！",
         "Description": "Allagan Tool的主要用途是追踪你在各个角色/雇员/部队中的物品。借助其筛选系统，你再也不会找不到物品或不知道它们应该归类到哪里。\n\n虽然这是它的主要功能，但它还拥有一份相当详尽的其他功能列表，包括：\n\t- 制作规划\n\t- 市场板整合\n\t- 在搜索/分类以及挑选制作材料时，在背包中高亮显示物品\n\t- 包含商人及来源等信息的物品窗口\n\t- 完全可搜索的任务/怪物/飞空艇/潜水艇窗口\n\t- 一个筛选系统，让你可以为特定物品设置复杂搜索\n\t- 提示框整合，让你在悬停时即可查看物品位置",
         "InternalName": "InventoryTools",
-        "AssemblyVersion": "1.15.0.902",
-        "TestingAssemblyVersion": "1.15.0.902",
+        "AssemblyVersion": "1.15.0.905",
+        "TestingAssemblyVersion": "1.15.0.905",
         "DalamudApiLevel": 15,
         "TestingDalamudApiLevel": 15,
-        "DownloadLinkInstall": "https://github.com/QianChangUwU/InventoryTools/releases/download/v1.15.0.902/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/QianChangUwU/InventoryTools/releases/download/v1.15.0.902/latest.zip",
-        "DownloadLinkTesting": "https://github.com/QianChangUwU/InventoryTools/releases/download/v1.15.0.902/latest.zip",
+        "DownloadLinkInstall": "https://github.com/QianChangUwU/InventoryTools/releases/download/v1.15.0.905/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/QianChangUwU/InventoryTools/releases/download/v1.15.0.905/latest.zip",
+        "DownloadLinkTesting": "https://github.com/QianChangUwU/InventoryTools/releases/download/v1.15.0.905/latest.zip",
         "RepoUrl": "https://github.com/QianChangUwU/InventoryTools",
         "IconUrl": "https://raw.githubusercontent.com/QianChangUwU/InventoryTools/main/InventoryTools/Images/icon.png",
         "Tags": [
@@ -97,6 +97,6 @@
         "ApplicableVersion": "any",
         "LoadPriority": 0,
         "AcceptsFeedback": true,
-        "LastUpdate": 1783462754
+        "LastUpdate": 1783464216
     }
 ]
