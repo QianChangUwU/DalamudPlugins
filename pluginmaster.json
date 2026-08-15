@@ -98,5 +98,31 @@
         "LoadPriority": 0,
         "AcceptsFeedback": true,
         "LastUpdate": 1783464216
+    },
+    {
+        "Name": "Chat 2",
+        "Author": "Infi, Anna",
+        "Punchline": "Electric Boogaloo - A whole new chat, a new fantastic chat window",
+        "Description": "Chat 2 is a complete rewrite of the in-game chat window as a plugin.\nIt supports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Emotes\n- Screenshot mode (obfuscate names)",
+        "InternalName": "ChatTwo",
+        "AssemblyVersion": "1.40.4",
+        "TestingAssemblyVersion": "1.40.4",
+        "DalamudApiLevel": 15,
+        "TestingDalamudApiLevel": 15,
+        "DownloadLinkInstall": "https://github.com/QianChangUwU/ChatTwo/releases/download/v1.40.4/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/QianChangUwU/ChatTwo/releases/download/v1.40.4/latest.zip",
+        "DownloadLinkTesting": "https://github.com/QianChangUwU/ChatTwo/releases/download/v1.40.4/latest.zip",
+        "RepoUrl": "https://github.com/QianChangUwU/ChatTwo",
+        "IconUrl": "https://github.com/QianChangUwU/ChatTwo/releases/download/v1.40.4/latest.zip",
+        "Tags": [
+            "Social",
+            "UI",
+            "Chat",
+            "Replacement"
+        ],
+        "ApplicableVersion": "any",
+        "LoadPriority": 0,
+        "AcceptsFeedback": true,
+        "LastUpdate": 1786837719
     }
 ]
