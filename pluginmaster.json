@@ -123,16 +123,16 @@
         "LastUpdate": 1787987044
     },
     {
-        "Author": "Sonar Team",
+        "Author": "Sonar Team, QianChangUwU",
         "Name": "Sonar",
         "InternalName": "SonarPlugin",
-        "AssemblyVersion": "",
-        "TestingAssemblyVersion": "",
+        "AssemblyVersion": "15.755.3.1",
+        "TestingAssemblyVersion": "15.755.3.1",
         "DalamudApiLevel": 15,
         "TestingDalamudApiLevel": 15,
-        "DownloadLinkInstall": "https://github.com/QianChangUwU/SonarDistrib/releases/download/v/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/QianChangUwU/SonarDistrib/releases/download/v/latest.zip",
-        "DownloadLinkTesting": "https://github.com/QianChangUwU/SonarDistrib/releases/download/v/latest.zip",
+        "DownloadLinkInstall": "https://github.com/QianChangUwU/SonarDistrib/releases/download/v15.755.3.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/QianChangUwU/SonarDistrib/releases/download/v15.755.3.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/QianChangUwU/SonarDistrib/releases/download/v15.755.3.1/latest.zip",
         "RepoUrl": "https://discord.gg/K7y24Rr",
         "IconUrl": "https://assets.ffxivsonar.com/dalamud/logo.png",
         "ImageUrls": [
@@ -162,6 +162,6 @@
         "ApplicableVersion": "any",
         "LoadPriority": 0,
         "AcceptsFeedback": false,
-        "LastUpdate": 1787986891
+        "LastUpdate": 1787987188
     }
 ]
