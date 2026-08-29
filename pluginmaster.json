@@ -105,13 +105,13 @@
         "Punchline": "狩猎列车辅助工具。",
         "Description": "提供实用的狩猎列车工具：高亮显示车头消息并屏蔽其他聊天、自动打开车头发送的地图标记、自动传送至车头发布的位置，并支持自动寻路前往。",
         "InternalName": "HuntTrainAssistant",
-        "AssemblyVersion": "1.0.4.9",
-        "TestingAssemblyVersion": "1.0.4.9",
+        "AssemblyVersion": "1.0.4.10",
+        "TestingAssemblyVersion": "1.0.4.10",
         "DalamudApiLevel": 15,
         "TestingDalamudApiLevel": 15,
-        "DownloadLinkInstall": "https://github.com/QianChangUwU/HuntTrainAssistant/releases/download/v1.0.4.9/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/QianChangUwU/HuntTrainAssistant/releases/download/v1.0.4.9/latest.zip",
-        "DownloadLinkTesting": "https://github.com/QianChangUwU/HuntTrainAssistant/releases/download/v1.0.4.9/latest.zip",
+        "DownloadLinkInstall": "https://github.com/QianChangUwU/HuntTrainAssistant/releases/download/v1.0.4.10/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/QianChangUwU/HuntTrainAssistant/releases/download/v1.0.4.10/latest.zip",
+        "DownloadLinkTesting": "https://github.com/QianChangUwU/HuntTrainAssistant/releases/download/v1.0.4.10/latest.zip",
         "RepoUrl": "https://github.com/QianChangUwU/HuntTrainAssistant",
         "Tags": [
             "hunt",
@@ -120,7 +120,7 @@
         "ApplicableVersion": "any",
         "LoadPriority": 0,
         "AcceptsFeedback": true,
-        "LastUpdate": 1787987044
+        "LastUpdate": 1787989191
     },
     {
         "Author": "Sonar Team, QianChangUwU",
