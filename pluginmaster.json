@@ -5,15 +5,15 @@
         "Punchline": "一个小小的任务助手插件。",
         "Description": "一个小小的任务助手插件，能在可能的情况下自动为你完成任务。使用导航网格自动行走到所有任务路径点，并尝试沿途自动完成所有步骤（不包括副本、单人职责和战斗）。\n\n并非所有任务都受支持，请查看GitHub仓库获取最新列表。\n\n所需插件：vnavmesh、TextAdvance、Lifestream",
         "InternalName": "Questionable",
-        "AssemblyVersion": "15.306.3.1914",
-        "TestingAssemblyVersion": "15.306.3.1914",
+        "AssemblyVersion": "15.306.3.2201",
+        "TestingAssemblyVersion": "15.306.3.2201",
         "DalamudApiLevel": 15,
         "TestingDalamudApiLevel": 15,
-        "DownloadLinkInstall": "https://github.com/QianChangUwU/Questionable/releases/download/v15.306.3.1914/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/QianChangUwU/Questionable/releases/download/v15.306.3.1914/latest.zip",
-        "DownloadLinkTesting": "https://github.com/QianChangUwU/Questionable/releases/download/v15.306.3.1914/latest.zip",
+        "DownloadLinkInstall": "https://github.com/QianChangUwU/Questionable/releases/download/v15.306.3.2201/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/QianChangUwU/Questionable/releases/download/v15.306.3.2201/latest.zip",
+        "DownloadLinkTesting": "https://github.com/QianChangUwU/Questionable/releases/download/v15.306.3.2201/latest.zip",
         "RepoUrl": "https://github.com/QianChangUwU/Questionable",
-        "IconUrl": "https://github.com/QianChangUwU/Questionable/releases/download/v15.306.3.1914/latest.zip",
+        "IconUrl": "https://github.com/QianChangUwU/Questionable/releases/download/v15.306.3.2201/latest.zip",
         "Tags": [
             "quests",
             "msq"
@@ -21,7 +21,7 @@
         "ApplicableVersion": "any",
         "LoadPriority": 0,
         "AcceptsFeedback": true,
-        "LastUpdate": 1788096311
+        "LastUpdate": 1788169053
     },
     {
         "Name": "JustBackup",
