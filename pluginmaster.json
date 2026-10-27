@@ -176,17 +176,17 @@
     },
     {
         "Name": "Untarnished Heart",
-        "Author": "AtmoOmen",
+        "Author": "AtmoOmen, QianChangUwU（魔改）",
         "Punchline": "自动化副本完成、奖励循环刷取插件",
         "Description": "原本是自动化防护职业副本场次成就刷取工具\n注: 副本战斗需要自行使用其他插件解决, 硬要用本插件写也不是不行",
         "InternalName": "UntarnishedHeart",
-        "AssemblyVersion": "1.1.5.0",
-        "TestingAssemblyVersion": "1.1.5.0",
+        "AssemblyVersion": "1.1.5.1",
+        "TestingAssemblyVersion": "1.1.5.1",
         "DalamudApiLevel": 15,
         "TestingDalamudApiLevel": 15,
-        "DownloadLinkInstall": "https://github.com/QianChangUwU/UntarnishedHeart/releases/download/v1.1.5.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/QianChangUwU/UntarnishedHeart/releases/download/v1.1.5.0/latest.zip",
-        "DownloadLinkTesting": "https://github.com/QianChangUwU/UntarnishedHeart/releases/download/v1.1.5.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/QianChangUwU/UntarnishedHeart/releases/download/v1.1.5.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/QianChangUwU/UntarnishedHeart/releases/download/v1.1.5.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/QianChangUwU/UntarnishedHeart/releases/download/v1.1.5.1/latest.zip",
         "RepoUrl": "https://github.com/QianChangUwU/UntarnishedHeart",
         "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/UntarnishedHeart/main/Resources/icon.png",
         "Tags": [
@@ -201,7 +201,7 @@
         "ApplicableVersion": "any",
         "LoadPriority": 0,
         "AcceptsFeedback": true,
-        "LastUpdate": 1793141655
+        "LastUpdate": 1793142346
     },
     {
         "Name": "Something Need Doing",
