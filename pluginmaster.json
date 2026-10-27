@@ -202,5 +202,33 @@
         "LoadPriority": 0,
         "AcceptsFeedback": true,
         "LastUpdate": 1793141655
+    },
+    {
+        "Name": "Something Need Doing",
+        "Author": "croizat",
+        "Punchline": "Work work.",
+        "Description": "Store unlimited macros and create lua scripts.",
+        "InternalName": "SomethingNeedDoing",
+        "AssemblyVersion": "15.13.0.0",
+        "TestingAssemblyVersion": "15.13.0.0",
+        "DalamudApiLevel": 15,
+        "TestingDalamudApiLevel": 15,
+        "DownloadLinkInstall": "https://github.com/QianChangUwU/SomethingNeedDoing/releases/download/v15.13.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/QianChangUwU/SomethingNeedDoing/releases/download/v15.13.0.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/QianChangUwU/SomethingNeedDoing/releases/download/v15.13.0.0/latest.zip",
+        "RepoUrl": "https://github.com/QianChangUwU/SomethingNeedDoing",
+        "IconUrl": "https://s3.puni.sh/media/plugin/34/icon-z405dwrdjem.png",
+        "Tags": [
+            "crafting",
+            "automation",
+            "lua",
+            "macros",
+            "scripting",
+            "SND"
+        ],
+        "ApplicableVersion": "any",
+        "LoadPriority": 0,
+        "AcceptsFeedback": true,
+        "LastUpdate": 1793141899
     }
 ]
