@@ -1,0 +1,21 @@
+{
+  "Author": "QianChangUwU",
+  "Name": "KTGProbe",
+  "InternalName": "KTGProbe",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "自动读取 KTGEWord 当前词并输入提交，支持可调间隔的自动循环。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/QianChangUwU/KTG",
+  "Tags": [
+    "KTG",
+    "金碟",
+    "自动"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "KTG 自动打词",
+  "AcceptsFeedback": true
+}
