@@ -237,8 +237,8 @@
         "Punchline": "KTG 自动打词",
         "Description": "自动读取 KTGEWord 当前词并输入提交，支持可调间隔的自动循环。",
         "InternalName": "KTGProbe",
-        "AssemblyVersion": "1.0.0.1",
-        "TestingAssemblyVersion": "1.0.0.1",
+        "AssemblyVersion": "1.0.0.2",
+        "TestingAssemblyVersion": "1.0.0.2",
         "DalamudApiLevel": 15,
         "TestingDalamudApiLevel": 15,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/QianChangUwU/DalamudPlugins/main/Plugins/KTGProbe/latest.zip",
@@ -252,6 +252,6 @@
         "ApplicableVersion": "any",
         "LoadPriority": 0,
         "AcceptsFeedback": true,
-        "LastUpdate": 1793183436
+        "LastUpdate": 1793183617
     }
 ]
