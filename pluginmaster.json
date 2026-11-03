@@ -253,5 +253,31 @@
         "LoadPriority": 0,
         "AcceptsFeedback": true,
         "LastUpdate": 1793194669
+    },
+    {
+        "Name": "Umbra XIV",
+        "Author": "Una, QiongHHHZZZ, QianChangUwU",
+        "Punchline": "为游戏添加高度可定制的工具栏与 3D 世界标记。",
+        "Description": "高度可定制的工具栏与 3D 世界标记插件。",
+        "InternalName": "Umbra",
+        "AssemblyVersion": "3.1.18.1801",
+        "TestingAssemblyVersion": "3.1.18.1801",
+        "DalamudApiLevel": 15,
+        "TestingDalamudApiLevel": 15,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/QianChangUwU/DalamudPlugins/main/Plugins/Umbra/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/QianChangUwU/DalamudPlugins/main/Plugins/Umbra/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/QianChangUwU/DalamudPlugins/main/Plugins/Umbra/latest.zip",
+        "RepoUrl": "https://github.com/QiongHHHZZZ/umbra",
+        "IconUrl": "",
+        "Tags": [
+            "ui",
+            "marker",
+            "markers",
+            "toolbar"
+        ],
+        "ApplicableVersion": "any",
+        "LoadPriority": 0,
+        "AcceptsFeedback": true,
+        "LastUpdate": 1793740751
     }
 ]
