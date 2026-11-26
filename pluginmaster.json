@@ -232,29 +232,6 @@
         "LastUpdate": 1794320026
     },
     {
-        "Name": "KTGProbe",
-        "Author": "QianChangUwU",
-        "Punchline": "KTG 自动打词",
-        "Description": "自动读取 KTGEWord 当前词并输入提交，支持可调间隔的自动循环。",
-        "InternalName": "KTGProbe",
-        "AssemblyVersion": "1.0.0.4",
-        "TestingAssemblyVersion": "1.0.0.4",
-        "DalamudApiLevel": 15,
-        "TestingDalamudApiLevel": 15,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/QianChangUwU/DalamudPlugins/main/Plugins/KTGProbe/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/QianChangUwU/DalamudPlugins/main/Plugins/KTGProbe/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/QianChangUwU/DalamudPlugins/main/Plugins/KTGProbe/latest.zip",
-        "RepoUrl": "https://github.com/QianChangUwU/KTG",
-        "IconUrl": "",
-        "Tags": [
-            "KTG"
-        ],
-        "ApplicableVersion": "any",
-        "LoadPriority": 0,
-        "AcceptsFeedback": true,
-        "LastUpdate": 1793194669
-    },
-    {
         "Name": "Umbra XIV",
         "Author": "Una, QiongHHHZZZ, QianChangUwU",
         "Punchline": "为游戏添加高度可定制的工具栏与 3D 世界标记。",
